@@ -1,0 +1,27 @@
+{
+  "name": "omnestro",
+  "displayName": "OMNESTRO",
+  "version": "0.2.0",
+  "description": "Conduct local native coding agents around one mission, with independent review and recorded verification evidence.",
+  "author": {
+    "name": "OMNESTRO",
+    "url": "https://omnestro.matrixboy.net"
+  },
+  "homepage": "https://omnestro.matrixboy.net",
+  "repository": "https://github.com/Matrixboy202/omnestro-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "multi-agent",
+    "code-review",
+    "codex",
+    "orchestration",
+    "verification"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/Matrixboy202/omnestro-claude-plugin#readme",
+  "supportUrl": "https://omnestro.matrixboy.net/support/",
+  "privacyPolicyUrl": "https://omnestro.matrixboy.net/privacy/",
+  "termsOfServiceUrl": "https://omnestro.matrixboy.net/terms/",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

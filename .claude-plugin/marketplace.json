@@ -1,0 +1,14 @@
+{
+  "name": "omnestro",
+  "description": "Conduct local native coding agents around one mission, with independent review and recorded verification evidence.",
+  "owner": {
+    "name": "OMNESTRO"
+  },
+  "plugins": [
+    {
+      "name": "omnestro",
+      "source": "./",
+      "description": "Conduct local native coding agents around one mission, with independent review and recorded verification evidence."
+    }
+  ]
+}
