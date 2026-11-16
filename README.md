@@ -15,7 +15,7 @@ This plugin connects Claude Code to the OMNESTRO desktop app on your computer. I
 
 1. Install the plugin: `claude plugin marketplace add Matrixboy202/omnestro-claude-plugin`, then `claude plugin install omnestro@omnestro`.
 2. Open OMNESTRO > **Account and subscription** (الحساب والاشتراك) and create an account or sign in.
-3. Open **Connect Codex and Claude** (الربط والإضافات) > the **Claude Code** card, choose your project and press **Connect / change project** (ربط / تغيير المشروع). A connection lasts up to 7 days and you can revoke it at any time. If you installed this plugin from the directory, you do not need the card's install button.
+3. Open **Connect Codex and Claude** (الربط والإضافات) > the **Claude Code** card, choose your project and press **Connect / change project** (ربط / تغيير المشروع). A connection lasts up to 7 days and you can revoke it at any time. With this plugin installed you do not need the card's install button.
 4. Start a new Claude Code session and run `/omnestro:conduct-mission`, or ask Claude to run a task through OMNESTRO.
 
 ## Example prompts
