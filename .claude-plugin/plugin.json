@@ -18,10 +18,9 @@
     "verification"
   ],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://github.com/Matrixboy202/omnestro-claude-plugin#readme",
+  "documentationUrl": "https://github.com/Matrixboy202/omnestro-claude-plugin/tree/directory#readme",
   "supportUrl": "https://omnestro.matrixboy.net/support/",
   "privacyPolicyUrl": "https://omnestro.matrixboy.net/privacy/",
   "termsOfServiceUrl": "https://omnestro.matrixboy.net/terms/",
-  "skills": "./skills/",
-  "mcpServers": "./.mcp.json"
+  "skills": "./skills/"
 }
